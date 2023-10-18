@@ -1,0 +1,20 @@
+
+.logininput{
+    width: 100%;
+    
+}
+.btnlogin{
+    color: red;
+    background-color: cyan;
+    width: 100%;
+}
+
+.cardlogin{
+    height: 100%;
+    margin-top: 12%;
+    width: 20%;
+    margin-left: 40%;
+}
+.cardtitle{
+    text-align: center;
+}
